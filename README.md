@@ -11,7 +11,7 @@ To install docker
 
 docker pull tensorflow/serving
 
-##To start docker ##
+## To start docker
 
 ```bash
 docker run -it -v <path/to/model>:/<name>-p 8601:8601 --entrypoint /bin/bash tensorflow/serving
