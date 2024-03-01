@@ -32,3 +32,7 @@ tensorflow_model_server --rest_api_port=8601 --model_name=reinopathy --model_bas
     ]
 }
 ```
+
+## Result
+
+![Image Alt Text](https://github.com/BICHURAJ/diabetic-retinopathy/data/raw/download.png)
